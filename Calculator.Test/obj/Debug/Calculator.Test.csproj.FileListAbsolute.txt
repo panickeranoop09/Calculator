@@ -1,0 +1,9 @@
+C:\inetpub\wwwroot\JON\NumberSequenceCalculator\Calculator.Test\obj\Debug\Calculator.Test.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\JON\NumberSequenceCalculator\Calculator.Test\bin\Debug\Calculator.Test.dll
+C:\inetpub\wwwroot\JON\NumberSequenceCalculator\Calculator.Test\bin\Debug\Calculator.Test.pdb
+C:\inetpub\wwwroot\JON\NumberSequenceCalculator\Calculator.Test\bin\Debug\Calculator.core.dll
+C:\inetpub\wwwroot\JON\NumberSequenceCalculator\Calculator.Test\bin\Debug\nunit.framework.dll
+C:\inetpub\wwwroot\JON\NumberSequenceCalculator\Calculator.Test\bin\Debug\Calculator.core.pdb
+C:\inetpub\wwwroot\JON\NumberSequenceCalculator\Calculator.Test\bin\Debug\nunit.framework.xml
+C:\inetpub\wwwroot\JON\NumberSequenceCalculator\Calculator.Test\obj\Debug\Calculator.Test.dll
+C:\inetpub\wwwroot\JON\NumberSequenceCalculator\Calculator.Test\obj\Debug\Calculator.Test.pdb

@@ -1,0 +1,4 @@
+C:\inetpub\wwwroot\JON\NumberSequenceCalculator\Calculator.core\bin\Debug\Calculator.core.dll
+C:\inetpub\wwwroot\JON\NumberSequenceCalculator\Calculator.core\bin\Debug\Calculator.core.pdb
+C:\inetpub\wwwroot\JON\NumberSequenceCalculator\Calculator.core\obj\Debug\Calculator.core.dll
+C:\inetpub\wwwroot\JON\NumberSequenceCalculator\Calculator.core\obj\Debug\Calculator.core.pdb

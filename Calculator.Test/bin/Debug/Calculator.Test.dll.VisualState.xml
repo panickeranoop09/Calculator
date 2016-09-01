@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1003]C:\inetpub\wwwroot\JON\NumberSequenceCalculator\Calculator.Test\bin\Debug\Calculator.Test.dll</TopNode>
+  <SelectedNode>[0-1003]C:\inetpub\wwwroot\JON\NumberSequenceCalculator\Calculator.Test\bin\Debug\Calculator.Test.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1003]C:\inetpub\wwwroot\JON\NumberSequenceCalculator\Calculator.Test\bin\Debug\Calculator.Test.dll" Expanded="true" />
+    <Node UniqueName="[0-1004]Calculator" Expanded="true" />
+    <Node UniqueName="[0-1005]Calculator.Test" Expanded="true" />
+    <Node UniqueName="[0-1000]Calculator.Test.PrintNumbers" Expanded="true" />
+    <Node UniqueName="[0-1001]Calculator.Test.PrintNumbers.Print" Expanded="true" />
+  </Nodes>
+</VisualState>

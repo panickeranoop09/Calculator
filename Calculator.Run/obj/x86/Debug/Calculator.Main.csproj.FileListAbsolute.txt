@@ -1,0 +1,7 @@
+C:\inetpub\wwwroot\JON\NumberSequenceCalculator\Calculator.Run\bin\Debug\Calculator.Run.exe
+C:\inetpub\wwwroot\JON\NumberSequenceCalculator\Calculator.Run\bin\Debug\Calculator.Run.pdb
+C:\inetpub\wwwroot\JON\NumberSequenceCalculator\Calculator.Run\bin\Debug\Calculator.core.dll
+C:\inetpub\wwwroot\JON\NumberSequenceCalculator\Calculator.Run\bin\Debug\Calculator.core.pdb
+C:\inetpub\wwwroot\JON\NumberSequenceCalculator\Calculator.Run\obj\x86\Debug\Calculator.Main.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\JON\NumberSequenceCalculator\Calculator.Run\obj\x86\Debug\Calculator.Run.exe
+C:\inetpub\wwwroot\JON\NumberSequenceCalculator\Calculator.Run\obj\x86\Debug\Calculator.Run.pdb
